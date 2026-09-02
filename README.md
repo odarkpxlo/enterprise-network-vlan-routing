@@ -76,3 +76,24 @@ This project demonstrates practical skills in:
 - DHCP configuration
 - ACL configuration
 - Network troubleshooting
+## Screenshots
+
+### Network Topology
+
+![Network Topology](screenshots/topology.png)
+
+### Routing
+
+![Routing Configuration](screenshots/routing.png)
+
+### DHCP
+
+![DHCP Configuration](screenshots/dhcp.png)
+
+### ACL Security
+
+![ACL Configuration](screenshots/acl.png)
+
+### Testing
+
+![Network Testing](screenshots/testing.png)
