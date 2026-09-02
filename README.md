@@ -76,44 +76,46 @@ This project demonstrates practical skills in:
 - DHCP configuration
 - ACL configuration
 - Network troubleshooting
+  
+
 ## Screenshots
 
 ### Network Topology
 
-![Network Topology](topology.png)
+![Network Topology](./topology.png)
 
 ### VLAN Configuration
 
-![VLAN Configuration](vlan-configuration.png)
+![VLAN Configuration](./vlan-configuration.png)
 
 ### Trunk Configuration
 
-![Trunk Configuration](trunk-configuration.png)
+![Trunk Configuration](./trunk-configuration.png)
 
 ### IP Configuration
 
-![IP Configuration](ip-configuration.png)
+![IP Configuration](./ip-configuration.png)
 
 ### Interface Status
 
-![Interface Status](brief.png)
+![Interface Status](./brief.png)
 
 ### Routing Table
 
-![Routing Table](ip-rout.png)
+![Routing Table](./ip-rout.png)
 
 ### DHCP Bindings
 
-![DHCP Bindings](dhcp-binding.png)
+![DHCP Bindings](./dhcp-binding.png)
 
 ### ACL Configuration
 
-![ACL Configuration](show-access-lists.png)
+![ACL Configuration](./show-access-lists.png)
 
 ### ACL Security Test
 
-![ACL Blocked Test](acl-blocked.png)
+![ACL Blocked Test](./acl-blocked.png)
 
-### IP Configuration Details
+### IP Details
 
-![IP Configuration Details](ip-configuration.png)
+![IP Details](./ip.png)
