@@ -108,7 +108,7 @@ This project demonstrates practical skills in:
 
 ### ACL Configuration
 
-![ACL Configuration](show%20access-lists.png)
+![ACL Configuration](show-access-lists.png)
 
 ### ACL Security Test
 
