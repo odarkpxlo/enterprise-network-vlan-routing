@@ -80,20 +80,40 @@ This project demonstrates practical skills in:
 
 ### Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](topology.png)
 
-### Routing
+### VLAN Configuration
 
-![Routing Configuration](screenshots/routing.png)
+![VLAN Configuration](vlan-configuration.png)
 
-### DHCP
+### Trunk Configuration
 
-![DHCP Configuration](screenshots/dhcp.png)
+![Trunk Configuration](trunk-configuration.png)
 
-### ACL Security
+### IP Configuration
 
-![ACL Configuration](screenshots/acl.png)
+![IP Configuration](ip-configuration.png)
 
-### Testing
+### Interface Status
 
-![Network Testing](screenshots/testing.png)
+![Interface Status](brief.png)
+
+### Routing Table
+
+![Routing Table](ip-rout.png)
+
+### DHCP Bindings
+
+![DHCP Bindings](dhcp-binding.png)
+
+### ACL Configuration
+
+![ACL Configuration](show%20access-lists.png)
+
+### ACL Security Test
+
+![ACL Blocked Test](acl-blocked.png)
+
+### IP Configuration Details
+
+![IP Configuration Details](ip-configuration.png)
