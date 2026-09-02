@@ -82,40 +82,40 @@ This project demonstrates practical skills in:
 
 ### Network Topology
 
-![Network Topology](./topology.png)
+![Network Topology](topology.png.jpg)
 
 ### VLAN Configuration
 
-![VLAN Configuration](./vlan-configuration.png)
+![VLAN Configuration](vlan-configuration.png.jpg)
 
 ### Trunk Configuration
 
-![Trunk Configuration](./trunk-configuration.png)
+![Trunk Configuration](trunk-configuration.png.jpg)
 
 ### IP Configuration
 
-![IP Configuration](./ip-configuration.png)
+![IP Configuration](ip-configaration.png.jpg)
 
 ### Interface Status
 
-![Interface Status](./brief.png)
+![Interface Status](brief.png.jpg)
 
 ### Routing Table
 
-![Routing Table](./ip-rout.png)
+![Routing Table](ip-rout.png.jpg)
 
 ### DHCP Bindings
 
-![DHCP Bindings](./dhcp-binding.png)
+![DHCP Bindings](dhcp-binding.png.jpg)
 
 ### ACL Configuration
 
-![ACL Configuration](./show-access-lists.png)
+![ACL Configuration](show-access-lists.png.jpg)
 
 ### ACL Security Test
 
-![ACL Blocked Test](./acl-blocked.png)
+![ACL Blocked Test](acl-blocked.png.jpg)
 
 ### IP Details
 
-![IP Details](./ip.png)
+![IP Details](ip.png.jpg)
